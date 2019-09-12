@@ -1,0 +1,9 @@
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupddates = true
+        ignoreccase = true
+[remote "origin"]
+        url = https://github.com/SerdjoRodriguez91/TestSAT.git
+        fetch = *refs/heads/":refs/remotes/origin/":
